@@ -1,2 +1,3 @@
 # estudo-responsividade
-Estudo de Responsividade em pagina de Login
+
+Estudo de Responsividade em página de Login
